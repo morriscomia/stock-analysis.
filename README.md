@@ -25,4 +25,4 @@ Refactoring helps make our code cleaner and more organized. A few advantages of 
 
 The biggest benefit that occurred as a result of the refactoring was an decrease in macro run time. The original analysis took approximately .21 second to run, whereas our new analysis only took about approximately 0.20 seconds to run. Attached below are the screenshots that indicate the run time for our old and new analysis.
 ![image](https://github.com/morriscomia/stock-analysis./blob/08ab142702045299594d133fa65e4eb017a91eda/Old%202017%20Run%20time.png)
-![image](https://github.com/morriscomia/stock-analysis./blob/08ab142702045299594d133fa65e4eb017a91eda/2017%20run%20time.png)
+![image](https://github.com/morriscomia/stock-analysis./blob/main/VBA_Challenge_2017.png)
